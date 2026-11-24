@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 500" role="img" aria-label="NEXORA AI SYSTEMS">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a36"/><stop offset="1" stop-color="#243d70"/></linearGradient></defs>
+<rect width="840" height="500" rx="34" fill="url(#g)"/>
+<circle cx="95" cy="80" r="90" fill="#8fbaff" opacity=".12"/><circle cx="745" cy="435" r="125" fill="#8fbaff" opacity=".12"/>
+<circle cx="420" cy="245" r="150" fill="#142b56" stroke="#5d8ef0" stroke-width="2"/>
+<circle cx="420" cy="245" r="100" fill="none" stroke="#75d7e8" stroke-width="2" opacity=".8"/>
+<circle cx="420" cy="245" r="52" fill="#6b8cff" opacity=".8"/>
+<path d="M420 85V405M260 245H580M307 132l226 226M533 132L307 358" stroke="#75d7e8" stroke-width="2" opacity=".55"/>
+<circle cx="420" cy="245" r="18" fill="#fff"/>
+<circle cx="310" cy="160" r="10" fill="#ffcb77"/><circle cx="535" cy="330" r="12" fill="#ffcb77"/>
+<rect x="115" y="110" width="105" height="72" rx="12" fill="#1c376c" stroke="#5d8ef0"/>
+<path d="M135 145h65M135 160h45" stroke="#9fc4ff" stroke-width="6" stroke-linecap="round"/>
+<rect x="605" y="300" width="110" height="75" rx="12" fill="#1c376c" stroke="#5d8ef0"/>
+<path d="M625 325h68M625 345h48" stroke="#9fc4ff" stroke-width="6" stroke-linecap="round"/>
+<text x="48" y="445" fill="#fff" font-family="Arial,sans-serif" font-size="24" font-weight="700">NEXORA AI SYSTEMS</text>
+<text x="48" y="473" fill="#ffffff" opacity=".78" font-family="Arial,sans-serif" font-size="14">Connected intelligence for real-world work</text>
+</svg>
